@@ -1,1 +1,1 @@
-thêm mô tả chi tiết hơn cho một số intent khi generate
+how to use random deletion method in augmented data to avoid deleting important words
